@@ -10,7 +10,7 @@ backend -https://github.com/ashgole/Thinkbridge_Foodiedelight_MERN/tree/main/bac
 
 ## Tags
 
-`MERN` `MERN app` `todo-app`
+`MERN` `MERN app`
 
 `frontend` - `Reactjs` `api` `vite` `tailwindcss` `crud` `axios` `redux` `redux-toolkit` `react-router-dom`
 
