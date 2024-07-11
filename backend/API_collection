@@ -1,0 +1,74 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Thinkbridge - FoodieDelight",
+    "collectionId": "41dac592-a862-48e1-bbca-a45bfa6a3579",
+    "dateExported": "2024-07-10T12:51:47.206Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "8ccf6317-c227-405d-b009-129a637c0b75",
+            "colId": "41dac592-a862-48e1-bbca-a45bfa6a3579",
+            "containerId": "",
+            "name": "addData",
+            "url": "http://localhost:3000/api/restaurant/adddata",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2024-07-10T12:24:00.124Z",
+            "modified": "2024-07-10T12:35:21.533Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"name\": \"Sushi Paradise\",\r\n  \"description\": \"Authentic Japanese sushi and sashimi.\",\r\n  \"location\": \"789 Sushi St, Fish City\",\r\n  \"image\": \"https://example.com/images/sushi_paradise.jpg\",\r\n  \"menu\": [\r\n    {\r\n      \"name\": \"Tuna Sashimi\",\r\n      \"price\": 18.99\r\n    },\r\n    {\r\n      \"name\": \"Salmon Nigiri\",\r\n      \"price\": 12.99\r\n    }\r\n  ]\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "a83a32ec-c943-421d-ac5c-e91f65580fb8",
+            "colId": "41dac592-a862-48e1-bbca-a45bfa6a3579",
+            "containerId": "",
+            "name": "getData",
+            "url": "http://localhost:3000/api/restaurant/getdata",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-07-10T12:24:08.214Z",
+            "modified": "2024-07-10T12:24:13.344Z",
+            "headers": []
+        },
+        {
+            "_id": "9fe3318f-c53c-42ea-9894-5575293f09c7",
+            "colId": "41dac592-a862-48e1-bbca-a45bfa6a3579",
+            "containerId": "",
+            "name": "updateData",
+            "url": "http://localhost:3000/api/restaurant/updatedata",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2024-07-10T12:38:12.571Z",
+            "modified": "2024-07-10T12:44:49.590Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n  \"id\":30,\r\n  \"name\": \"ash Paradise\",\r\n  \"description\": \"Authentic Japanese sushi and sashimi.\",\r\n  \"location\": \"789 Sushi St, Fish City\",\r\n  \"image\": \"https://example.com/images/sushi_paradise.jpg\",\r\n  \"menu\": [\r\n    {\r\n      \"name\": \"Tuna Sashimi\",\r\n      \"price\": 18.99\r\n    },\r\n    {\r\n      \"name\": \"Salmon Nigiri\",\r\n      \"price\": 12.99\r\n    }\r\n  ]\r\n}\r\n",
+                "form": []
+            }
+        },
+        {
+            "_id": "45d8d74c-2efd-4a48-8349-ce7d3f8538d5",
+            "colId": "41dac592-a862-48e1-bbca-a45bfa6a3579",
+            "containerId": "",
+            "name": "deleteData",
+            "url": "http://localhost:3000/api/restaurant/deletedata",
+            "method": "POST",
+            "sortNum": 40000,
+            "created": "2024-07-10T12:48:58.212Z",
+            "modified": "2024-07-10T12:50:58.686Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"id\":14\n}",
+                "form": []
+            }
+        }
+    ],
+    "ref": "HFUHKiX3YZ71l88mr2RhIJ8DQcUa_Cs1NeHAgrK5p92IhosyHfSSOqQK_LBgrJ14bO-Ic6PELR1oeV_rheUg4Q"
+}
