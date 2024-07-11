@@ -4,9 +4,9 @@
 
 ## Resource links
 
-frontend added - https://github.com/ashgole/Thinkbridge-Hotel_management/tree/main/frontend
+frontend added - https://github.com/ashgole/Thinkbridge_Foodiedelight_MERN/tree/main/frontend
 
-backend -https://github.com/ashgole/Thinkbridge-Hotel_management/tree/main/backend
+backend -https://github.com/ashgole/Thinkbridge_Foodiedelight_MERN/tree/main/backend
 
 ## Tags
 
@@ -18,10 +18,10 @@ backend -https://github.com/ashgole/Thinkbridge-Hotel_management/tree/main/backe
 
 ## Screenshots
 
-![Home 1](https://github.com/ashgole/Thinkbridge-Hotel_management/blob/main/public/screenshots/1.png)
-![Add restaurant 2](https://github.com/ashgole/Thinkbridge-Hotel_management/blob/main/public/screenshots/2.png)
-![Update restaurant 3](https://github.com/ashgole/Thinkbridge-Hotel_management/blob/main/public/screenshots/3.png)
-![Delete restaurant 4](https://github.com/ashgole/Thinkbridge-Hotel_management/blob/main/public/screenshots/4.png)
+![Home 1](https://github.com/ashgole/Thinkbridge_Foodiedelight_MERN/blob/main/public/screenshots/1.png)
+![Add restaurant 2](https://github.com/ashgole/Thinkbridge_Foodiedelight_MERN/blob/main/public/screenshots/2.png)
+![Update restaurant 3](https://github.com/ashgole/Thinkbridge_Foodiedelight_MERN/blob/main/public/screenshots/3.png)
+![Delete restaurant 4](https://github.com/ashgole/Thinkbridge_Foodiedelight_MERN/blob/main/public/screenshots/4.png)
 
 ```
 Extract zip file
